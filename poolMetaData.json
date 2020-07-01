@@ -1,4 +1,5 @@
-{                                                                                                           "name": "EugeneTestPool",
+{
+"name": "EugeneTestPool",
 "description": "My pool description",
 "ticker": "ETP",
 "homepage": "https://test.com"
